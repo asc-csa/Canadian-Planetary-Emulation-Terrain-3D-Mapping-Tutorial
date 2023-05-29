@@ -1,4 +1,3 @@
-# Canadian-Planetary-Emulation-Terrain-3D-Mapping-Tutorial
  <p align="center">
     <img src="https://www.asc-csa.gc.ca/eng/multimedia/search/image/watch/8042?search=rovers"  height="300">
 </p>
@@ -20,3 +19,8 @@
         <img alt="Suivre sur Twitter | Twitter Follow" src="https://img.shields.io/twitter/follow/csa_asc?style=social">
     </a>
 </p>
+# Cartographie 3D du terrain d’émulation planétaire canadienne -  Un tutoriel (English follows)
+Le tutoriel suivant a été créé pour aider les utilisateurs à utiliser les données ouvertes du terrain d’émulation planétaire canadienne pour créer une carte 3D en Python. Les scripts sont créés à l’aide de la bibliothèque open3d.  Les données se composent de 102 scans laser obtenus à l’aide d’un MobileRobots Pioneer P2AT modifié. Plus d’informations sur les données peuvent être trouvées via ce lien:  https://donnees-data.asc-csa.gc.ca/en/dataset/65376529-3z6l-6u7e-732sbzy824wa25
+
+# Canadian Planetary Emulation Terrain 3D Mapping -  A Tutorial (Le français précède)
+The following tutorial has been created to help users use the open data of the Canadian Planetary Emulation terrain to create a 3D map in Python. The scripts are created using the open3d library. The data consists of of 102 laser scans obtained using a modified MobileRobots Pioneer P2AT. More information about the data can be found via this link: https://donnees-data.asc-csa.gc.ca/en/dataset/65376529-3z6l-6u7e-732sbzy824wa25
