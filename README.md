@@ -14,7 +14,7 @@
         <img alt="Dernier commit sur GitHub | GitHub last commit" src="https://img.shields.io/github/last-commit/asc-csa/Canadian-Planetary-Emulation-Terrain-3D-Mapping-Tutorial">
     </a>
     <a href="https://github.com/asc-csa/Canadian-Planetary-Emulation-Terrain-3D-Mapping-Tutorial/graphs/contributors">
-        <img alt="Contributeurs sur GitHub | GitHub contributors" src="https://img.shields.io/github/contributors/asc-csa/Synthetic_Aperture_Radar_Tutorial">
+        <img alt="Contributeurs sur GitHub | GitHub contributors" src="https://img.shields.io/github/contributors/asc-csa/Canadian-Planetary-Emulation-Terrain-3D-Mapping-Tutorial">
     </a>
     <a href="https://twitter.com/intent/follow?screen_name=csa_asc">
         <img alt="Suivre sur Twitter | Twitter Follow" src="https://img.shields.io/twitter/follow/csa_asc?style=social">
