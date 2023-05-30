@@ -1,7 +1,10 @@
  <p align="center">
  
-  ![Canadian Planetary Emulation Terrain Image](AT-(Planetary-Analogue-Terrain).jpg)
+  <img src = "AT-(Planetary-Analogue-Terrain).jpg" alt = "Canadian Planetary Emulation Terrain Image" Width = 600 height = "300">
  
+ </p>
+<p align="center">
+ Source de l’image/ Image source: https://www.asc-csa.gc.ca/eng/multimedia/search/image/8042
 </p>
 
 <p align="center">
