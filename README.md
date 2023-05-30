@@ -1,5 +1,5 @@
  <p align="center">
-    <img src="C:\Users\rsheikholmolouki\Documents\AT-(Planetary-Analogue-Terrain).jpg"  height="300" title="Image source: https://www.asc-csa.gc.ca/eng/multimedia/search/image/watch/8042?search=rovers">
+    ![Canadian Planetary Emulation Terrain](https://github.com/asc-csa/Canadian-Planetary-Emulation-Terrain-3D-Mapping-Tutorial/blob/main/AT-(Planetary-Analogue-Terrain).jpg)
 </p>
 
 <p align="center">
