@@ -1,5 +1,5 @@
  <p align="center">
-    ![Canadian Planetary Emulation Terrain](https://github.com/asc-csa/Canadian-Planetary-Emulation-Terrain-3D-Mapping-Tutorial/blob/main/AT-(Planetary-Analogue-Terrain).jpg)
+ ![Canadian Planetary Emulation Terrain](AT-(Planetary-Analogue-Terrain).jpg)
 </p>
 
 <p align="center">
